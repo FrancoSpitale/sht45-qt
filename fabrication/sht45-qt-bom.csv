@@ -1,0 +1,6 @@
+"Designator","Value","MPN","Footprint","Qty"
+"C1","100nF","CL10B104KB8NNNC","Capacitor_SMD:C_0603_1608Metric","1"
+"J1,J2","Qwiic","SM04B-SRSS-TB(LF)(SN)","Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal","2"
+"J3","I2C_Header","","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","1"
+"R1,R2","10k","RC0603FR-0710KL","Resistor_SMD:R_0603_1608Metric","2"
+"U1","SHT45-AD1B","SHT45-AD1B-R2","Sensor_Humidity:Sensirion_DFN-4_1.5x1.5mm_P0.8mm_SHT4x_NoCentralPad","1"
