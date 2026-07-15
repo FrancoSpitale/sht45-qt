@@ -98,6 +98,9 @@ void loop() {
 }
 ```
 
+A ready-to-flash version of this sketch lives in
+[examples/arduino/sht45_qt_basic](examples/arduino/sht45_qt_basic/sht45_qt_basic.ino).
+
 For fast response, mount the board sensor-edge up, away from heat sources, and
 give the slot free airflow on both sides.
 
@@ -113,6 +116,7 @@ give the slot free airflow on both sides.
 ```
 hardware/     KiCad 9 project (schematic, PCB, ERC/DRC reports)
 fabrication/  Gerbers zip (JLCPCB), BOM, pick & place
+examples/     Arduino example sketch
 docs/         Renders and schematic SVG
 ```
 
